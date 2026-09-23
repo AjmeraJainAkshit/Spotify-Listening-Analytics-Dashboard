@@ -205,23 +205,6 @@ Users can combine multiple filters to drill down from an overall listening summa
 
 ---
 
-## 📸 Dashboard Preview
-
-Add screenshots of the Power BI report here after publishing the project to GitHub:
-
-```text
-assets/screenshots/overview.png
-assets/screenshots/listening-patterns.png
-assets/screenshots/details-dashboard.png
-```
-
-Example Markdown:
-
-```markdown
-![Spotify Dashboard Overview](assets/screenshots/overview.png)
-```
-
----
 
 ## 📌 Notes
 
@@ -234,7 +217,7 @@ Example Markdown:
 
 ## 👤 Author
 
-**Your Name**
+**Akshit Jain Ajmera**
 
 If you found this project useful, feel free to ⭐ the repository and connect with me on GitHub.
 
